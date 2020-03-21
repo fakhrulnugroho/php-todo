@@ -1,6 +1,14 @@
 # TodoList Sederhana dengan PHP &amp; MySQL + jQuery Ajax
 
 
+### Fitur
+
+1. Tambah TodoList
+2. Tandai selesai TodoList
+3. Arsipkan TodoList
+4. Hapus TodoList
+5. Tanpa reload menggunakan jquery + ajax 
+
 ### Instalasi
 Untuk cara instalasi dan konfigurasi caranya sangat mudah
 
